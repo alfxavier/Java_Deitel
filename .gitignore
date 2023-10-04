@@ -1,0 +1,47 @@
+# Arquivos de compilação
+*.class
+
+# Arquivos de construção Apache Maven
+target/
+
+# Arquivos de construção Apache Ant
+build/
+
+# Diretório de arquivos de projeto NetBeans
+nbproject/
+
+# Diretório de arquivos de projeto Eclipse
+.settings/
+
+# Arquivos de configuração Intellij IDEA
+.idea/
+
+# Arquivos de log
+*.log
+
+# Arquivos de dependência
+lib/
+
+# Arquivos de propriedades do Java
+*.properties
+
+# Arquivos temporários
+*.tmp
+
+# Arquivos de configuração do sistema
+.DS_Store
+
+# Diretório de saída do Eclipse
+bin/
+
+# Diretório de saída do NetBeans
+build/
+
+# Diretório de saída do IntelliJ IDEA
+out/
+
+# Diretório de saída do Gradle
+build/
+
+# Diretório de metadados
+.metadata/

@@ -1,4 +1,4 @@
-package banco.conta;
+package com.cap3;
 
 import java.util.Scanner;
 

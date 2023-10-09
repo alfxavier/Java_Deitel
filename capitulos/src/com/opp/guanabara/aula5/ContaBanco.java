@@ -88,7 +88,7 @@ public class ContaBanco {
 	
 	public void sacar(double valor) {
 		if ((valor > 0.0) && (getSaldo() >= valor) && (isStatus() == true)) {
-			setSaldo(getSaldo() - valor);
+			this.setSaldo(getSaldo() - valor);
 		}
 	}
 	

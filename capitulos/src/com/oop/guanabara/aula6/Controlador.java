@@ -1,4 +1,4 @@
-package com.opp.guanabara.aula6;
+package com.oop.guanabara.aula6;
 
 public interface Controlador {
 	public abstract void ligar();

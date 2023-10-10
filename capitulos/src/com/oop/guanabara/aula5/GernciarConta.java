@@ -1,4 +1,4 @@
-package com.opp.guanabara.aula5;
+package com.oop.guanabara.aula5;
 
 import javax.annotation.processing.SupportedSourceVersion;
 

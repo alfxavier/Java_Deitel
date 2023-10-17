@@ -1,4 +1,4 @@
-package com.cap3;
+package deitel.com.cap3;
 
 import java.util.Scanner;
 

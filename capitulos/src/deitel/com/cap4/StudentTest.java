@@ -1,4 +1,4 @@
-package com.cap4;
+package deitel.com.cap4;
 
 public class StudentTest {
 

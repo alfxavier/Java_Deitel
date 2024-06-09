@@ -45,3 +45,5 @@ build/
 
 # Diretório de metadados
 .metadata/
+
+.gitignore
